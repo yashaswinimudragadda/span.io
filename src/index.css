@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-juris-blue: #0d233a;
+  --color-juris-teal: #00a896;
+  --color-juris-light-teal: #e6f6f4;
+  --color-juris-orange: #e07a5f;
+  --color-juris-bg: #f4f9f9;
+}
